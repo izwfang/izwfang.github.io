@@ -4,8 +4,9 @@ email: izwfang@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
   Hello World!
 
+
 # social links
-twitter_username: izwfang
+# twitter_username: izwfang
 github_username:  izwfang
 rss: rss
 # dribbble_username: jekyll
